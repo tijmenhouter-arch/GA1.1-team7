@@ -8,4 +8,4 @@ The function subtract subtracts b from a and returns the answer. It might break 
 How to use multiply function? Add a new line with print(multiply(a, b)), fill in your parameters for a and b and run the cell by holding Shift + Enter.
 This function adds an addition function
 
-This function sums the values of a list. The list [1, 2, 3] gives 6.
+distance from zero calculates the absolute distance from x to 0, by calling the subtract function.
