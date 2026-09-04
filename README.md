@@ -1,1 +1,1 @@
-# GA1.1-team7
+This function adds addition function
