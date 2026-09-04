@@ -1,1 +1,1 @@
-This function adds addition function
+This function adds an addition function
